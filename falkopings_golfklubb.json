@@ -1,0 +1,179 @@
+{
+  "name": "Falk\u00F6pings Golfklubb",
+  "id": "falkopings_golfklubb",
+  "courses": [
+    {
+      "name": "Falk\u00F6pings GK / 9 H\u00E5lsbanan",
+      "id": "falkopings_gk_/_9_halsbanan",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 350,
+            "R\u0026#246;d": 300
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Gul": 470,
+            "R\u0026#246;d": 380
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 250,
+            "R\u0026#246;d": 210
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 120,
+            "R\u0026#246;d": 100
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 330,
+            "R\u0026#246;d": 280
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 270,
+            "R\u0026#246;d": 230
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Gul": 450,
+            "R\u0026#246;d": 375
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 110,
+            "R\u0026#246;d": 90
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 360,
+            "R\u0026#246;d": 310
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 350,
+            "R\u0026#246;d": 300
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Gul": 470,
+            "R\u0026#246;d": 380
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 250,
+            "R\u0026#246;d": 210
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 120,
+            "R\u0026#246;d": 100
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 330,
+            "R\u0026#246;d": 280
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 270,
+            "R\u0026#246;d": 230
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Gul": 450,
+            "R\u0026#246;d": 375
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 110,
+            "R\u0026#246;d": 90
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 360,
+            "R\u0026#246;d": 310
+          }
+        }
+      }
+    }
+  ]
+}

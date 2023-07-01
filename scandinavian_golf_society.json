@@ -1,0 +1,724 @@
+{
+  "name": "Scandinavian Golf Society",
+  "id": "scandinavian_golf_society",
+  "courses": [
+    {
+      "name": "Banyan  SGS",
+      "id": "banyan__sgs",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Vit": 377,
+            "R\u0026#246;d": 327
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 128,
+            "R\u0026#246;d": 112
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Vit": 479,
+            "R\u0026#246;d": 426
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 179,
+            "R\u0026#246;d": 95
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Vit": 320,
+            "R\u0026#246;d": 254
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Vit": 342,
+            "R\u0026#246;d": 288
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 414,
+            "R\u0026#246;d": 367
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Vit": 480,
+            "R\u0026#246;d": 407
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 384,
+            "R\u0026#246;d": 318
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 378,
+            "R\u0026#246;d": 267
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Vit": 517,
+            "R\u0026#246;d": 426
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Vit": 555,
+            "R\u0026#246;d": 456
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 338,
+            "R\u0026#246;d": 244
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Vit": 299,
+            "R\u0026#246;d": 239
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 136,
+            "R\u0026#246;d": 119
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Vit": 369,
+            "R\u0026#246;d": 282
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Vit": 171,
+            "R\u0026#246;d": 138
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 343,
+            "R\u0026#246;d": 322
+          }
+        }
+      }
+    },
+    {
+      "name": "BlackMountain East \u0026 North SGS",
+      "id": "blackmountain_east_\u0026_north_sgs",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Tee61": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee65": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee57H75": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Tee61": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee65": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee57H75": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Tee61": 396,
+            "Tee65": 403,
+            "Tee57H75": 361
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Tee61": 466,
+            "Tee65": 478,
+            "Tee57H75": 427
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Tee61": 140,
+            "Tee65": 155,
+            "Tee57H75": 141
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Tee61": 351,
+            "Tee65": 361,
+            "Tee57H75": 318
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Tee61": 359,
+            "Tee65": 372,
+            "Tee57H75": 324
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Tee61": 569,
+            "Tee65": 576,
+            "Tee57H75": 480
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Tee61": 447,
+            "Tee65": 409,
+            "Tee57H75": 360
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Tee61": 148,
+            "Tee65": 154,
+            "Tee57H75": 122
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Tee61": 427,
+            "Tee65": 411,
+            "Tee57H75": 351
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Tee61": 363,
+            "Tee65": 372,
+            "Tee57H75": 343
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Tee61": 141,
+            "Tee65": 154,
+            "Tee57H75": 133
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Tee61": 393,
+            "Tee65": 400,
+            "Tee57H75": 350
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Tee61": 552,
+            "Tee65": 532,
+            "Tee57H75": 476
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Tee61": 165,
+            "Tee65": 168,
+            "Tee57H75": 146
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Tee61": 371,
+            "Tee65": 341,
+            "Tee57H75": 320
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Tee61": 364,
+            "Tee65": 329,
+            "Tee57H75": 248
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Tee61": 326,
+            "Tee65": 323,
+            "Tee57H75": 303
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "Tee61": 524,
+            "Tee65": 512,
+            "Tee57H75": 484
+          }
+        }
+      }
+    },
+    {
+      "name": "Imperial Lake View A \u002B C SGS",
+      "id": "imperial_lake_view_a_\u002B_c_sgs",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 368,
+            "R\u0026#246;d": 334
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Vit": 514,
+            "R\u0026#246;d": 463
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 392,
+            "R\u0026#246;d": 338
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 168,
+            "R\u0026#246;d": 130
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Vit": 465,
+            "R\u0026#246;d": 422
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Vit": 355,
+            "R\u0026#246;d": 309
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Vit": 300,
+            "R\u0026#246;d": 243
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Vit": 144,
+            "R\u0026#246;d": 125
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Vit": 393,
+            "R\u0026#246;d": 327
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Vit": 365,
+            "R\u0026#246;d": 330
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Vit": 448,
+            "R\u0026#246;d": 415
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 135,
+            "R\u0026#246;d": 124
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 360,
+            "R\u0026#246;d": 341
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Vit": 343,
+            "R\u0026#246;d": 320
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 425,
+            "R\u0026#246;d": 403
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Vit": 146,
+            "R\u0026#246;d": 122
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Vit": 470,
+            "R\u0026#246;d": 443
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 360,
+            "R\u0026#246;d": 334
+          }
+        }
+      }
+    },
+    {
+      "name": "Royal Hua Hin SGS",
+      "id": "royal_hua_hin_sgs",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Vit": 569,
+            "R\u0026#246;d": 489
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 384,
+            "R\u0026#246;d": 328
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Vit": 535,
+            "R\u0026#246;d": 460
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 155,
+            "R\u0026#246;d": 130
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 131,
+            "R\u0026#246;d": 112
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Vit": 444,
+            "R\u0026#246;d": 382
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 385,
+            "R\u0026#246;d": 328
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Vit": 332,
+            "R\u0026#246;d": 284
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 397,
+            "R\u0026#246;d": 341
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 356,
+            "R\u0026#246;d": 302
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Vit": 565,
+            "R\u0026#246;d": 484
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Vit": 305,
+            "R\u0026#246;d": 267
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 356,
+            "R\u0026#246;d": 303
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 149,
+            "R\u0026#246;d": 131
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Vit": 564,
+            "R\u0026#246;d": 481
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 198,
+            "R\u0026#246;d": 166
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 413,
+            "R\u0026#246;d": 354
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Vit": 440,
+            "R\u0026#246;d": 371
+          }
+        }
+      }
+    }
+  ]
+}
