@@ -548,6 +548,205 @@
       }
     },
     {
+      "name": "Majestic Creek A\u002BB SGS",
+      "id": "majestic_creek_a\u002Bb_sgs",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u0026#246;d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 399,
+            "Gul": 353,
+            "R\u0026#246;d": 329
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Vit": 359,
+            "Gul": 336,
+            "R\u0026#246;d": 279
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 360,
+            "Gul": 332,
+            "R\u0026#246;d": 285
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Vit": 172,
+            "Gul": 150,
+            "R\u0026#246;d": 145
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Vit": 523,
+            "Gul": 489,
+            "R\u0026#246;d": 462
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 147,
+            "Gul": 143,
+            "R\u0026#246;d": 120
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Vit": 372,
+            "Gul": 335,
+            "R\u0026#246;d": 0
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 434,
+            "Gul": 393,
+            "R\u0026#246;d": 356
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Vit": 592,
+            "Gul": 549,
+            "R\u0026#246;d": 513
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Vit": 373,
+            "Gul": 330,
+            "R\u0026#246;d": 291
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 381,
+            "Gul": 355,
+            "R\u0026#246;d": 333
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 207,
+            "Gul": 191,
+            "R\u0026#246;d": 157
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Vit": 549,
+            "Gul": 538,
+            "R\u0026#246;d": 519
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 351,
+            "Gul": 343,
+            "R\u0026#246;d": 318
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Vit": 430,
+            "Gul": 379,
+            "R\u0026#246;d": 336
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 428,
+            "Gul": 399,
+            "R\u0026#246;d": 365
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 147,
+            "Gul": 139,
+            "R\u0026#246;d": 115
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Vit": 580,
+            "Gul": 540,
+            "R\u0026#246;d": 488
+          }
+        }
+      }
+    },
+    {
       "name": "Royal Hua Hin SGS",
       "id": "royal_hua_hin_sgs",
       "par": 72,
