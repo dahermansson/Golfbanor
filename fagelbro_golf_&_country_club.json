@@ -5,7 +5,7 @@
     {
       "name": "F\u00E5gelbro18-h\u00E5lsbanan",
       "id": "fagelbro18-halsbanan",
-      "par": 71,
+      "par": 70,
       "ratings": {
         "men": {
           "Vit": {
@@ -47,87 +47,87 @@
       "holes": {
         "1": {
           "par": 4,
-          "index": 10,
+          "index": 6,
           "distances": {
-            "Vit": 325,
-            "Gul": 295,
-            "Bl\u00E5": 250,
-            "R\u00F6d": 220
+            "Vit": 368,
+            "Gul": 356,
+            "Bl\u00E5": 295,
+            "R\u00F6d": 289
           }
         },
         "2": {
-          "par": 5,
-          "index": 4,
+          "par": 4,
+          "index": 16,
           "distances": {
-            "Vit": 501,
-            "Gul": 501,
-            "Bl\u00E5": 446,
-            "R\u00F6d": 406
+            "Vit": 365,
+            "Gul": 310,
+            "Bl\u00E5": 285,
+            "R\u00F6d": 250
           }
         },
         "3": {
           "par": 4,
-          "index": 14,
+          "index": 2,
           "distances": {
-            "Vit": 372,
-            "Gul": 359,
-            "Bl\u00E5": 326,
-            "R\u00F6d": 325
+            "Vit": 402,
+            "Gul": 386,
+            "Bl\u00E5": 360,
+            "R\u00F6d": 347
           }
         },
         "4": {
-          "par": 4,
-          "index": 2,
-          "distances": {
-            "Vit": 376,
-            "Gul": 354,
-            "Bl\u00E5": 304,
-            "R\u00F6d": 294
-          }
-        },
-        "5": {
           "par": 3,
           "index": 18,
           "distances": {
-            "Vit": 182,
-            "Gul": 140,
-            "Bl\u00E5": 140,
-            "R\u00F6d": 120
+            "Vit": 186,
+            "Gul": 146,
+            "Bl\u00E5": 108,
+            "R\u00F6d": 100
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Vit": 343,
+            "Gul": 319,
+            "Bl\u00E5": 281,
+            "R\u00F6d": 265
           }
         },
         "6": {
-          "par": 5,
-          "index": 16,
+          "par": 4,
+          "index": 4,
           "distances": {
-            "Vit": 474,
-            "Gul": 436,
-            "Bl\u00E5": 386,
-            "R\u00F6d": 373
+            "Vit": 368,
+            "Gul": 334,
+            "Bl\u00E5": 303,
+            "R\u00F6d": 288
           }
         },
         "7": {
-          "par": 3,
-          "index": 6,
-          "distances": {
-            "Vit": 181,
-            "Gul": 160,
-            "Bl\u00E5": 94,
-            "R\u00F6d": 89
-          }
-        },
-        "8": {
           "par": 5,
           "index": 8,
           "distances": {
-            "Vit": 445,
-            "Gul": 434,
-            "Bl\u00E5": 395,
-            "R\u00F6d": 346
+            "Vit": 449,
+            "Gul": 416,
+            "Bl\u00E5": 372,
+            "R\u00F6d": 358
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 369,
+            "Gul": 346,
+            "Bl\u00E5": 332,
+            "R\u00F6d": 292
           }
         },
         "9": {
           "par": 3,
-          "index": 12,
+          "index": 10,
           "distances": {
             "Vit": 133,
             "Gul": 121,
@@ -137,7 +137,7 @@
         },
         "10": {
           "par": 4,
-          "index": 9,
+          "index": 5,
           "distances": {
             "Vit": 368,
             "Gul": 356,
@@ -206,16 +206,6 @@
           }
         },
         "17": {
-          "par": 3,
-          "index": 5,
-          "distances": {
-            "Vit": 173,
-            "Gul": 158,
-            "Bl\u00E5": 148,
-            "R\u00F6d": 118
-          }
-        },
-        "18": {
           "par": 4,
           "index": 11,
           "distances": {
@@ -223,6 +213,16 @@
             "Gul": 346,
             "Bl\u00E5": 332,
             "R\u00F6d": 292
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Vit": 133,
+            "Gul": 121,
+            "Bl\u00E5": 118,
+            "R\u00F6d": 118
           }
         }
       }

@@ -5,7 +5,7 @@
     {
       "name": "18-h\u00E5lsbanan",
       "id": "18-halsbanan",
-      "par": 73,
+      "par": 72,
       "ratings": {
         "men": {
           "62": {
@@ -86,15 +86,15 @@
           }
         },
         "3": {
-          "par": 4,
+          "par": 3,
           "index": 1,
           "distances": {
-            "62": 319,
-            "59": 303,
-            "55": 271,
-            "50": 258,
-            "46": 258,
-            "42": 201
+            "62": 115,
+            "59": 110,
+            "55": 100,
+            "50": 85,
+            "46": 85,
+            "42": 70
           }
         },
         "4": {
@@ -275,179 +275,6 @@
             "50": 289,
             "46": 245,
             "42": 245
-          }
-        }
-      }
-    },
-    {
-      "name": "Nioh\u00E5lsbanan med Pay and Play",
-      "id": "niohalsbanan_med_pay_and_play",
-      "par": 68,
-      "ratings": {
-        "men": {
-          "Gul": {
-            "cr": null,
-            "sr": null
-          },
-          "R\u00F6d": {
-            "cr": null,
-            "sr": null
-          }
-        },
-        "women": {
-          "Gul": {
-            "cr": null,
-            "sr": null
-          },
-          "R\u00F6d": {
-            "cr": null,
-            "sr": null
-          }
-        }
-      },
-      "holes": {
-        "1": {
-          "par": 3,
-          "index": 7,
-          "distances": {
-            "Gul": 190,
-            "R\u00F6d": 165
-          }
-        },
-        "2": {
-          "par": 3,
-          "index": 17,
-          "distances": {
-            "Gul": 125,
-            "R\u00F6d": 110
-          }
-        },
-        "3": {
-          "par": 5,
-          "index": 3,
-          "distances": {
-            "Gul": 490,
-            "R\u00F6d": 430
-          }
-        },
-        "4": {
-          "par": 3,
-          "index": 15,
-          "distances": {
-            "Gul": 145,
-            "R\u00F6d": 130
-          }
-        },
-        "5": {
-          "par": 5,
-          "index": 11,
-          "distances": {
-            "Gul": 445,
-            "R\u00F6d": 380
-          }
-        },
-        "6": {
-          "par": 3,
-          "index": 9,
-          "distances": {
-            "Gul": 165,
-            "R\u00F6d": 145
-          }
-        },
-        "7": {
-          "par": 4,
-          "index": 13,
-          "distances": {
-            "Gul": 290,
-            "R\u00F6d": 270
-          }
-        },
-        "8": {
-          "par": 4,
-          "index": 5,
-          "distances": {
-            "Gul": 300,
-            "R\u00F6d": 255
-          }
-        },
-        "9": {
-          "par": 4,
-          "index": 1,
-          "distances": {
-            "Gul": 330,
-            "R\u00F6d": 280
-          }
-        },
-        "10": {
-          "par": 3,
-          "index": 8,
-          "distances": {
-            "Gul": 190,
-            "R\u00F6d": 165
-          }
-        },
-        "11": {
-          "par": 3,
-          "index": 18,
-          "distances": {
-            "Gul": 125,
-            "R\u00F6d": 110
-          }
-        },
-        "12": {
-          "par": 5,
-          "index": 4,
-          "distances": {
-            "Gul": 490,
-            "R\u00F6d": 430
-          }
-        },
-        "13": {
-          "par": 3,
-          "index": 16,
-          "distances": {
-            "Gul": 145,
-            "R\u00F6d": 130
-          }
-        },
-        "14": {
-          "par": 5,
-          "index": 12,
-          "distances": {
-            "Gul": 445,
-            "R\u00F6d": 380
-          }
-        },
-        "15": {
-          "par": 3,
-          "index": 10,
-          "distances": {
-            "Gul": 165,
-            "R\u00F6d": 145
-          }
-        },
-        "16": {
-          "par": 4,
-          "index": 14,
-          "distances": {
-            "Gul": 290,
-            "R\u00F6d": 270
-          }
-        },
-        "17": {
-          "par": 4,
-          "index": 6,
-          "distances": {
-            "Gul": 300,
-            "R\u00F6d": 255
-          }
-        },
-        "18": {
-          "par": 4,
-          "index": 2,
-          "distances": {
-            "Gul": 330,
-            "R\u00F6d": 280
           }
         }
       }

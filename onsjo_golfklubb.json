@@ -54,105 +54,6 @@
       },
       "holes": {
         "1": {
-          "par": 4,
-          "index": 12,
-          "distances": {
-            "Vit": 328,
-            "Gul": 310,
-            "Bl\u00E5": 267,
-            "R\u00F6d": 258,
-            "Orange": 200
-          }
-        },
-        "2": {
-          "par": 4,
-          "index": 4,
-          "distances": {
-            "Vit": 339,
-            "Gul": 324,
-            "Bl\u00E5": 309,
-            "R\u00F6d": 281,
-            "Orange": 235
-          }
-        },
-        "3": {
-          "par": 3,
-          "index": 14,
-          "distances": {
-            "Vit": 160,
-            "Gul": 144,
-            "Bl\u00E5": 131,
-            "R\u00F6d": 117,
-            "Orange": 105
-          }
-        },
-        "4": {
-          "par": 5,
-          "index": 18,
-          "distances": {
-            "Vit": 476,
-            "Gul": 431,
-            "Bl\u00E5": 371,
-            "R\u00F6d": 342,
-            "Orange": 300
-          }
-        },
-        "5": {
-          "par": 4,
-          "index": 2,
-          "distances": {
-            "Vit": 364,
-            "Gul": 354,
-            "Bl\u00E5": 324,
-            "R\u00F6d": 289,
-            "Orange": 260
-          }
-        },
-        "6": {
-          "par": 4,
-          "index": 10,
-          "distances": {
-            "Vit": 330,
-            "Gul": 314,
-            "Bl\u00E5": 298,
-            "R\u00F6d": 262,
-            "Orange": 255
-          }
-        },
-        "7": {
-          "par": 3,
-          "index": 8,
-          "distances": {
-            "Vit": 163,
-            "Gul": 153,
-            "Bl\u00E5": 148,
-            "R\u00F6d": 138,
-            "Orange": 110
-          }
-        },
-        "8": {
-          "par": 4,
-          "index": 6,
-          "distances": {
-            "Vit": 296,
-            "Gul": 281,
-            "Bl\u00E5": 262,
-            "R\u00F6d": 233,
-            "Orange": 200
-          }
-        },
-        "9": {
-          "par": 4,
-          "index": 16,
-          "distances": {
-            "Vit": 339,
-            "Gul": 339,
-            "Bl\u00E5": 218,
-            "R\u00F6d": 218,
-            "Orange": 180
-          }
-        },
-        "10": {
           "par": 5,
           "index": 3,
           "distances": {
@@ -163,7 +64,7 @@
             "Orange": 310
           }
         },
-        "11": {
+        "2": {
           "par": 4,
           "index": 7,
           "distances": {
@@ -174,7 +75,7 @@
             "Orange": 236
           }
         },
-        "12": {
+        "3": {
           "par": 5,
           "index": 15,
           "distances": {
@@ -185,7 +86,7 @@
             "Orange": 290
           }
         },
-        "13": {
+        "4": {
           "par": 3,
           "index": 11,
           "distances": {
@@ -196,7 +97,7 @@
             "Orange": 110
           }
         },
-        "14": {
+        "5": {
           "par": 4,
           "index": 9,
           "distances": {
@@ -207,7 +108,7 @@
             "Orange": 224
           }
         },
-        "15": {
+        "6": {
           "par": 3,
           "index": 17,
           "distances": {
@@ -218,7 +119,7 @@
             "Orange": 95
           }
         },
-        "16": {
+        "7": {
           "par": 4,
           "index": 1,
           "distances": {
@@ -229,7 +130,7 @@
             "Orange": 275
           }
         },
-        "17": {
+        "8": {
           "par": 5,
           "index": 13,
           "distances": {
@@ -240,7 +141,7 @@
             "Orange": 315
           }
         },
-        "18": {
+        "9": {
           "par": 4,
           "index": 5,
           "distances": {
@@ -249,6 +150,105 @@
             "Bl\u00E5": 336,
             "R\u00F6d": 280,
             "Orange": 230
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 328,
+            "Gul": 310,
+            "Bl\u00E5": 267,
+            "R\u00F6d": 258,
+            "Orange": 200
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 339,
+            "Gul": 324,
+            "Bl\u00E5": 309,
+            "R\u00F6d": 281,
+            "Orange": 235
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 160,
+            "Gul": 144,
+            "Bl\u00E5": 131,
+            "R\u00F6d": 117,
+            "Orange": 105
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 18,
+          "distances": {
+            "Vit": 476,
+            "Gul": 431,
+            "Bl\u00E5": 371,
+            "R\u00F6d": 342,
+            "Orange": 300
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 364,
+            "Gul": 354,
+            "Bl\u00E5": 324,
+            "R\u00F6d": 289,
+            "Orange": 260
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 330,
+            "Gul": 314,
+            "Bl\u00E5": 298,
+            "R\u00F6d": 262,
+            "Orange": 255
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Vit": 163,
+            "Gul": 153,
+            "Bl\u00E5": 148,
+            "R\u00F6d": 138,
+            "Orange": 110
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Vit": 296,
+            "Gul": 281,
+            "Bl\u00E5": 262,
+            "R\u00F6d": 233,
+            "Orange": 200
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Vit": 339,
+            "Gul": 339,
+            "Bl\u00E5": 218,
+            "R\u00F6d": 218,
+            "Orange": 180
           }
         }
       }

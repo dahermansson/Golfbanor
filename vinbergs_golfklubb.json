@@ -5,7 +5,7 @@
     {
       "name": "18 h\u00E5lsbanan-T\u00F6llstorpslingan",
       "id": "18_halsbanan-tollstorpslingan",
-      "par": 71,
+      "par": 72,
       "ratings": {
         "men": {
           "57": {
@@ -74,12 +74,12 @@
           }
         },
         "5": {
-          "par": 3,
+          "par": 4,
           "index": 2,
           "distances": {
-            "57": 130,
-            "52": 130,
-            "46": 114
+            "57": 346,
+            "52": 328,
+            "46": 290
           }
         },
         "6": {
