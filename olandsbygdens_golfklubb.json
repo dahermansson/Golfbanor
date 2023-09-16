@@ -12,7 +12,7 @@
             "cr": null,
             "sr": null
           },
-          "R\u0026#246;d": {
+          "R\u00F6d": {
             "cr": null,
             "sr": null
           },
@@ -26,7 +26,7 @@
             "cr": null,
             "sr": null
           },
-          "R\u0026#246;d": {
+          "R\u00F6d": {
             "cr": null,
             "sr": null
           },
@@ -42,7 +42,7 @@
           "index": 11,
           "distances": {
             "Gul": 289,
-            "R\u0026#246;d": 252,
+            "R\u00F6d": 252,
             "Orange": 189
           }
         },
@@ -51,7 +51,7 @@
           "index": 5,
           "distances": {
             "Gul": 330,
-            "R\u0026#246;d": 289,
+            "R\u00F6d": 289,
             "Orange": 217
           }
         },
@@ -60,7 +60,7 @@
           "index": 1,
           "distances": {
             "Gul": 400,
-            "R\u0026#246;d": 350,
+            "R\u00F6d": 350,
             "Orange": 263
           }
         },
@@ -69,7 +69,7 @@
           "index": 7,
           "distances": {
             "Gul": 346,
-            "R\u0026#246;d": 277,
+            "R\u00F6d": 277,
             "Orange": 208
           }
         },
@@ -78,7 +78,7 @@
           "index": 9,
           "distances": {
             "Gul": 453,
-            "R\u0026#246;d": 378,
+            "R\u00F6d": 378,
             "Orange": 284
           }
         },
@@ -87,7 +87,7 @@
           "index": 15,
           "distances": {
             "Gul": 182,
-            "R\u0026#246;d": 148,
+            "R\u00F6d": 148,
             "Orange": 111
           }
         },
@@ -96,7 +96,7 @@
           "index": 13,
           "distances": {
             "Gul": 320,
-            "R\u0026#246;d": 269,
+            "R\u00F6d": 269,
             "Orange": 202
           }
         },
@@ -105,7 +105,7 @@
           "index": 17,
           "distances": {
             "Gul": 129,
-            "R\u0026#246;d": 95,
+            "R\u00F6d": 95,
             "Orange": 95
           }
         },
@@ -114,7 +114,7 @@
           "index": 3,
           "distances": {
             "Gul": 488,
-            "R\u0026#246;d": 407,
+            "R\u00F6d": 407,
             "Orange": 305
           }
         },
@@ -123,7 +123,7 @@
           "index": 12,
           "distances": {
             "Gul": 289,
-            "R\u0026#246;d": 252,
+            "R\u00F6d": 252,
             "Orange": 189
           }
         },
@@ -132,7 +132,7 @@
           "index": 6,
           "distances": {
             "Gul": 330,
-            "R\u0026#246;d": 289,
+            "R\u00F6d": 289,
             "Orange": 217
           }
         },
@@ -141,7 +141,7 @@
           "index": 2,
           "distances": {
             "Gul": 400,
-            "R\u0026#246;d": 350,
+            "R\u00F6d": 350,
             "Orange": 263
           }
         },
@@ -150,7 +150,7 @@
           "index": 8,
           "distances": {
             "Gul": 346,
-            "R\u0026#246;d": 277,
+            "R\u00F6d": 277,
             "Orange": 208
           }
         },
@@ -159,7 +159,7 @@
           "index": 10,
           "distances": {
             "Gul": 453,
-            "R\u0026#246;d": 378,
+            "R\u00F6d": 378,
             "Orange": 284
           }
         },
@@ -168,7 +168,7 @@
           "index": 16,
           "distances": {
             "Gul": 182,
-            "R\u0026#246;d": 148,
+            "R\u00F6d": 148,
             "Orange": 111
           }
         },
@@ -177,7 +177,7 @@
           "index": 14,
           "distances": {
             "Gul": 320,
-            "R\u0026#246;d": 269,
+            "R\u00F6d": 269,
             "Orange": 202
           }
         },
@@ -186,7 +186,7 @@
           "index": 18,
           "distances": {
             "Gul": 129,
-            "R\u0026#246;d": 95,
+            "R\u00F6d": 95,
             "Orange": 95
           }
         },
@@ -195,7 +195,7 @@
           "index": 4,
           "distances": {
             "Gul": 488,
-            "R\u0026#246;d": 407,
+            "R\u00F6d": 407,
             "Orange": 305
           }
         }

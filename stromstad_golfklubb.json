@@ -12,7 +12,7 @@
             "cr": null,
             "sr": null
           },
-          "R\u0026#246;d": {
+          "R\u00F6d": {
             "cr": null,
             "sr": null
           },
@@ -26,7 +26,7 @@
             "cr": null,
             "sr": null
           },
-          "R\u0026#246;d": {
+          "R\u00F6d": {
             "cr": null,
             "sr": null
           },
@@ -42,7 +42,7 @@
           "index": 9,
           "distances": {
             "Gul": 316,
-            "R\u0026#246;d": 302,
+            "R\u00F6d": 302,
             "Orange": 250
           }
         },
@@ -51,7 +51,7 @@
           "index": 13,
           "distances": {
             "Gul": 275,
-            "R\u0026#246;d": 267,
+            "R\u00F6d": 267,
             "Orange": 235
           }
         },
@@ -60,7 +60,7 @@
           "index": 5,
           "distances": {
             "Gul": 450,
-            "R\u0026#246;d": 390,
+            "R\u00F6d": 390,
             "Orange": 325
           }
         },
@@ -69,7 +69,7 @@
           "index": 15,
           "distances": {
             "Gul": 120,
-            "R\u0026#246;d": 105,
+            "R\u00F6d": 105,
             "Orange": 88
           }
         },
@@ -78,7 +78,7 @@
           "index": 3,
           "distances": {
             "Gul": 397,
-            "R\u0026#246;d": 301,
+            "R\u00F6d": 301,
             "Orange": 255
           }
         },
@@ -87,7 +87,7 @@
           "index": 11,
           "distances": {
             "Gul": 137,
-            "R\u0026#246;d": 125,
+            "R\u00F6d": 125,
             "Orange": 90
           }
         },
@@ -96,7 +96,7 @@
           "index": 1,
           "distances": {
             "Gul": 352,
-            "R\u0026#246;d": 296,
+            "R\u00F6d": 296,
             "Orange": 250
           }
         },
@@ -105,7 +105,7 @@
           "index": 17,
           "distances": {
             "Gul": 246,
-            "R\u0026#246;d": 217,
+            "R\u00F6d": 217,
             "Orange": 185
           }
         },
@@ -114,7 +114,7 @@
           "index": 7,
           "distances": {
             "Gul": 460,
-            "R\u0026#246;d": 360,
+            "R\u00F6d": 360,
             "Orange": 360
           }
         },
@@ -123,7 +123,7 @@
           "index": 12,
           "distances": {
             "Gul": 157,
-            "R\u0026#246;d": 133,
+            "R\u00F6d": 133,
             "Orange": 100
           }
         },
@@ -132,7 +132,7 @@
           "index": 6,
           "distances": {
             "Gul": 302,
-            "R\u0026#246;d": 271,
+            "R\u00F6d": 271,
             "Orange": 234
           }
         },
@@ -141,7 +141,7 @@
           "index": 14,
           "distances": {
             "Gul": 116,
-            "R\u0026#246;d": 95,
+            "R\u00F6d": 95,
             "Orange": 95
           }
         },
@@ -150,7 +150,7 @@
           "index": 16,
           "distances": {
             "Gul": 287,
-            "R\u0026#246;d": 259,
+            "R\u00F6d": 259,
             "Orange": 200
           }
         },
@@ -159,7 +159,7 @@
           "index": 8,
           "distances": {
             "Gul": 287,
-            "R\u0026#246;d": 247,
+            "R\u00F6d": 247,
             "Orange": 205
           }
         },
@@ -168,7 +168,7 @@
           "index": 10,
           "distances": {
             "Gul": 454,
-            "R\u0026#246;d": 393,
+            "R\u00F6d": 393,
             "Orange": 330
           }
         },
@@ -177,7 +177,7 @@
           "index": 4,
           "distances": {
             "Gul": 366,
-            "R\u0026#246;d": 296,
+            "R\u00F6d": 296,
             "Orange": 250
           }
         },
@@ -186,7 +186,7 @@
           "index": 2,
           "distances": {
             "Gul": 482,
-            "R\u0026#246;d": 410,
+            "R\u00F6d": 410,
             "Orange": 365
           }
         },
@@ -195,7 +195,7 @@
           "index": 18,
           "distances": {
             "Gul": 142,
-            "R\u0026#246;d": 115,
+            "R\u00F6d": 115,
             "Orange": 95
           }
         }
