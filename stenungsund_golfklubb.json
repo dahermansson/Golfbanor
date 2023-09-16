@@ -278,6 +278,111 @@
           }
         }
       }
+    },
+    {
+      "name": "Stenungsunds Korth\u00E5lsbanan",
+      "id": "stenungsunds_korthalsbanan",
+      "par": 36,
+      "ratings": {
+        "men": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Svart": 56
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Svart": 73
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Svart": 75
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Svart": 64
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Svart": 66
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Svart": 83
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Svart": 85
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Svart": 77
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Svart": 97
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Svart": 44
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Svart": 54
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Svart": 66
+          }
+        }
+      }
     }
   ]
 }

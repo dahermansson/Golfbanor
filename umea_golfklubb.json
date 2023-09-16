@@ -252,6 +252,257 @@
           }
         }
       }
+    },
+    {
+      "name": "9-h\u00E5lsbana",
+      "id": "9-halsbana",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "Vit": 418,
+            "Gul": 395,
+            "Bl\u00E5": 395,
+            "R\u00F6d": 339,
+            "Orange": 298
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 343,
+            "Gul": 329,
+            "Bl\u00E5": 329,
+            "R\u00F6d": 286,
+            "Orange": 239
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 136,
+            "Gul": 120,
+            "Bl\u00E5": 120,
+            "R\u00F6d": 98,
+            "Orange": 98
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Vit": 375,
+            "Gul": 329,
+            "Bl\u00E5": 329,
+            "R\u00F6d": 295,
+            "Orange": 249
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Vit": 463,
+            "Gul": 431,
+            "Bl\u00E5": 431,
+            "R\u00F6d": 367,
+            "Orange": 323
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Vit": 132,
+            "Gul": 122,
+            "Bl\u00E5": 106,
+            "R\u00F6d": 106,
+            "Orange": 106
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 400,
+            "Gul": 385,
+            "Bl\u00E5": 385,
+            "R\u00F6d": 325,
+            "Orange": 291
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Vit": 510,
+            "Gul": 490,
+            "Bl\u00E5": 410,
+            "R\u00F6d": 410,
+            "Orange": 379
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 118,
+            "Gul": 113,
+            "Bl\u00E5": 97,
+            "R\u00F6d": 97,
+            "Orange": 97
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Vit": 418,
+            "Gul": 395,
+            "Bl\u00E5": 395,
+            "R\u00F6d": 339,
+            "Orange": 298
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 343,
+            "Gul": 329,
+            "Bl\u00E5": 329,
+            "R\u00F6d": 286,
+            "Orange": 239
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 136,
+            "Gul": 120,
+            "Bl\u00E5": 120,
+            "R\u00F6d": 98,
+            "Orange": 98
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 375,
+            "Gul": 329,
+            "Bl\u00E5": 329,
+            "R\u00F6d": 295,
+            "Orange": 249
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Vit": 463,
+            "Gul": 431,
+            "Bl\u00E5": 431,
+            "R\u00F6d": 367,
+            "Orange": 323
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Vit": 132,
+            "Gul": 122,
+            "Bl\u00E5": 106,
+            "R\u00F6d": 106,
+            "Orange": 106
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 400,
+            "Gul": 385,
+            "Bl\u00E5": 385,
+            "R\u00F6d": 325,
+            "Orange": 291
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Vit": 510,
+            "Gul": 490,
+            "Bl\u00E5": 410,
+            "R\u00F6d": 410,
+            "Orange": 379
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 118,
+            "Gul": 113,
+            "Bl\u00E5": 97,
+            "R\u00F6d": 97,
+            "Orange": 97
+          }
+        }
+      }
     }
   ]
 }

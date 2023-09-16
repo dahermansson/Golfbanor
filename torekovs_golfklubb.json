@@ -226,6 +226,153 @@
           }
         }
       }
+    },
+    {
+      "name": "\u00D6vningsbana - Sankta Thora",
+      "id": "ovningsbana_-_sankta_thora",
+      "par": 54,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Vit": 57
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Vit": 45
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Vit": 52
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Vit": 83
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Vit": 59
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Vit": 31
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Vit": 57
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Vit": 45
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Vit": 52
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Vit": 83
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Vit": 59
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Vit": 31
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 57
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 45
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 52
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Vit": 83
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 59
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 31
+          }
+        }
+      }
     }
   ]
 }

@@ -9,16 +9,16 @@
       "ratings": {
         "men": {
           "55an": {
-            "cr": 69.3,
-            "sr": 127
+            "cr": null,
+            "sr": null
           },
           "51an": {
-            "cr": 67.1,
-            "sr": 121
+            "cr": null,
+            "sr": null
           },
           "46an": {
-            "cr": 64.7,
-            "sr": 111
+            "cr": null,
+            "sr": null
           },
           "40an": {
             "cr": null,
@@ -27,20 +27,20 @@
         },
         "women": {
           "55an": {
-            "cr": 74.9,
-            "sr": 137
+            "cr": null,
+            "sr": null
           },
           "51an": {
-            "cr": 72.3,
-            "sr": 131
+            "cr": null,
+            "sr": null
           },
           "46an": {
-            "cr": 69.5,
-            "sr": 120
+            "cr": null,
+            "sr": null
           },
           "40an": {
-            "cr": 66,
-            "sr": 112
+            "cr": null,
+            "sr": null
           }
         }
       },

@@ -278,6 +278,153 @@
           }
         }
       }
+    },
+    {
+      "name": "2. Nya Gladan korth\u00E5lbanan",
+      "id": "2._nya_gladan_korthalbanan",
+      "par": 54,
+      "ratings": {
+        "men": {
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "R\u00F6d": 68
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "R\u00F6d": 81
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "R\u00F6d": 88
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "R\u00F6d": 55
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "R\u00F6d": 70
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "R\u00F6d": 152
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "R\u00F6d": 127
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "R\u00F6d": 92
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "R\u00F6d": 113
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "R\u00F6d": 68
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "R\u00F6d": 81
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "R\u00F6d": 88
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "R\u00F6d": 55
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "R\u00F6d": 70
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "R\u00F6d": 152
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "R\u00F6d": 127
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "R\u00F6d": 92
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "R\u00F6d": 113
+          }
+        }
+      }
     }
   ]
 }

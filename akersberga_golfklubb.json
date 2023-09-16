@@ -252,6 +252,55 @@
           }
         }
       }
+    },
+    {
+      "name": "4-H\u00E5lsbanan",
+      "id": "4-halsbanan",
+      "par": 14,
+      "ratings": {
+        "men": {
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Bl\u00E5": 222
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Bl\u00E5": 211
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Bl\u00E5": 96
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Bl\u00E5": 119
+          }
+        }
+      }
     }
   ]
 }

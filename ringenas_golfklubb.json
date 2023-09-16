@@ -200,6 +200,404 @@
           }
         }
       }
+    },
+    {
+      "name": "9-h\u00E5lsbanan",
+      "id": "9-halsbanan",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 283,
+            "R\u00F6d": 261,
+            "Orange": 261
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 130,
+            "R\u00F6d": 120,
+            "Orange": 120
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Gul": 423,
+            "R\u00F6d": 353,
+            "Orange": 319
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 141,
+            "R\u00F6d": 135,
+            "Orange": 135
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 374,
+            "R\u00F6d": 320,
+            "Orange": 256
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 255,
+            "R\u00F6d": 216,
+            "Orange": 216
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 459,
+            "R\u00F6d": 393,
+            "Orange": 317
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 352,
+            "R\u00F6d": 318,
+            "Orange": 264
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 106,
+            "R\u00F6d": 101,
+            "Orange": 101
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 283,
+            "R\u00F6d": 261,
+            "Orange": 261
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 130,
+            "R\u00F6d": 120,
+            "Orange": 120
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Gul": 423,
+            "R\u00F6d": 353,
+            "Orange": 319
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 141,
+            "R\u00F6d": 135,
+            "Orange": 135
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 374,
+            "R\u00F6d": 320,
+            "Orange": 256
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 255,
+            "R\u00F6d": 216,
+            "Orange": 216
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 459,
+            "R\u00F6d": 393,
+            "Orange": 317
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 352,
+            "R\u00F6d": 318,
+            "Orange": 264
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 106,
+            "R\u00F6d": 101,
+            "Orange": 101
+          }
+        }
+      }
+    },
+    {
+      "name": "Dubbelbokning",
+      "id": "dubbelbokning",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "56": {
+            "cr": null,
+            "sr": null
+          },
+          "50": {
+            "cr": null,
+            "sr": null
+          },
+          "43": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "56": {
+            "cr": null,
+            "sr": null
+          },
+          "50": {
+            "cr": null,
+            "sr": null
+          },
+          "43": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "56": 418,
+            "50": 388,
+            "43": 320
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "56": 329,
+            "50": 294,
+            "43": 291
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "56": 302,
+            "50": 292,
+            "43": 288
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "56": 159,
+            "50": 132,
+            "43": 129
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "56": 281,
+            "50": 275,
+            "43": 189
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "56": 291,
+            "50": 278,
+            "43": 271
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "56": 176,
+            "50": 158,
+            "43": 119
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "56": 328,
+            "50": 285,
+            "43": 217
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "56": 429,
+            "50": 373,
+            "43": 330
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "56": 283,
+            "50": 261,
+            "43": 261
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "56": 130,
+            "50": 120,
+            "43": 120
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "56": 423,
+            "50": 353,
+            "43": 319
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "56": 141,
+            "50": 135,
+            "43": 135
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "56": 374,
+            "50": 320,
+            "43": 256
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "56": 255,
+            "50": 216,
+            "43": 216
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "56": 459,
+            "50": 393,
+            "43": 317
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "56": 352,
+            "50": 318,
+            "43": 264
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "56": 106,
+            "50": 101,
+            "43": 101
+          }
+        }
+      }
     }
   ]
 }

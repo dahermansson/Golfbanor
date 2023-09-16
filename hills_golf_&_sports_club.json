@@ -278,6 +278,205 @@
           }
         }
       }
+    },
+    {
+      "name": "Valley Course.",
+      "id": "valley_course.",
+      "par": 66,
+      "ratings": {
+        "men": {
+          "B": {
+            "cr": null,
+            "sr": null
+          },
+          "M": {
+            "cr": null,
+            "sr": null
+          },
+          "F": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "B": {
+            "cr": null,
+            "sr": null
+          },
+          "M": {
+            "cr": null,
+            "sr": null
+          },
+          "F": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "B": 163,
+            "M": 135,
+            "F": 96
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "B": 314,
+            "M": 254,
+            "F": 194
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "B": 156,
+            "M": 133,
+            "F": 90
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "B": 188,
+            "M": 167,
+            "F": 112
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "B": 347,
+            "M": 320,
+            "F": 242
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "B": 313,
+            "M": 280,
+            "F": 239
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "B": 324,
+            "M": 309,
+            "F": 278
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "B": 275,
+            "M": 263,
+            "F": 223
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "B": 388,
+            "M": 377,
+            "F": 322
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "B": 489,
+            "M": 447,
+            "F": 416
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "B": 349,
+            "M": 328,
+            "F": 301
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "B": 134,
+            "M": 126,
+            "F": 94
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "B": 163,
+            "M": 135,
+            "F": 96
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "B": 314,
+            "M": 254,
+            "F": 194
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "B": 156,
+            "M": 133,
+            "F": 90
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "B": 188,
+            "M": 167,
+            "F": 112
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "B": 347,
+            "M": 320,
+            "F": 242
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "B": 313,
+            "M": 280,
+            "F": 239
+          }
+        }
+      }
     }
   ]
 }

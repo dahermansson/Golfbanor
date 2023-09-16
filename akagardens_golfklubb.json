@@ -252,6 +252,69 @@
           }
         }
       }
+    },
+    {
+      "name": "\u00C5kag\u00E5rdens Korth\u00E5lsbana 6h\u00E5l",
+      "id": "akagardens_korthalsbana_6hal",
+      "par": 18,
+      "ratings": {
+        "men": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Svart": 53
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Svart": 85
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Svart": 45
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Svart": 70
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Svart": 49
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Svart": 76
+          }
+        }
+      }
     }
   ]
 }

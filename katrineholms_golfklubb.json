@@ -252,6 +252,231 @@
           }
         }
       }
+    },
+    {
+      "name": "9-h\u00E5lsbanan",
+      "id": "9-halsbanan",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Tee5": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee4": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee3": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee2": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Tee5": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee4": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee3": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee2": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Tee5": 380,
+            "Tee4": 340,
+            "Tee3": 340,
+            "Tee2": 285
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Tee5": 350,
+            "Tee4": 305,
+            "Tee3": 285,
+            "Tee2": 260
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Tee5": 500,
+            "Tee4": 475,
+            "Tee3": 430,
+            "Tee2": 400
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Tee5": 180,
+            "Tee4": 160,
+            "Tee3": 155,
+            "Tee2": 145
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Tee5": 455,
+            "Tee4": 440,
+            "Tee3": 430,
+            "Tee2": 350
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Tee5": 380,
+            "Tee4": 345,
+            "Tee3": 300,
+            "Tee2": 265
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Tee5": 155,
+            "Tee4": 135,
+            "Tee3": 130,
+            "Tee2": 105
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Tee5": 330,
+            "Tee4": 320,
+            "Tee3": 310,
+            "Tee2": 270
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Tee5": 330,
+            "Tee4": 260,
+            "Tee3": 250,
+            "Tee2": 225
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Tee5": 380,
+            "Tee4": 340,
+            "Tee3": 340,
+            "Tee2": 285
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Tee5": 350,
+            "Tee4": 305,
+            "Tee3": 285,
+            "Tee2": 260
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Tee5": 500,
+            "Tee4": 475,
+            "Tee3": 430,
+            "Tee2": 400
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Tee5": 180,
+            "Tee4": 160,
+            "Tee3": 155,
+            "Tee2": 145
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Tee5": 455,
+            "Tee4": 440,
+            "Tee3": 430,
+            "Tee2": 350
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Tee5": 380,
+            "Tee4": 345,
+            "Tee3": 300,
+            "Tee2": 265
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Tee5": 155,
+            "Tee4": 135,
+            "Tee3": 130,
+            "Tee2": 105
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Tee5": 330,
+            "Tee4": 320,
+            "Tee3": 310,
+            "Tee2": 270
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Tee5": 330,
+            "Tee4": 260,
+            "Tee3": 250,
+            "Tee2": 225
+          }
+        }
+      }
     }
   ]
 }
