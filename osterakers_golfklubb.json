@@ -182,24 +182,24 @@
       "ratings": {
         "men": {
           "EM": {
-            "cr": null,
-            "sr": null
+            "cr": 74.3,
+            "sr": 142
           },
           "60": {
-            "cr": null,
-            "sr": null
+            "cr": 72.2,
+            "sr": 138
           },
           "56": {
-            "cr": null,
-            "sr": null
+            "cr": 70.6,
+            "sr": 135
           },
           "52": {
-            "cr": null,
-            "sr": null
+            "cr": 68,
+            "sr": 129
           },
           "47": {
-            "cr": null,
-            "sr": null
+            "cr": 65.7,
+            "sr": 125
           }
         },
         "women": {
@@ -212,16 +212,16 @@
             "sr": null
           },
           "56": {
-            "cr": null,
-            "sr": null
+            "cr": 76.4,
+            "sr": 140
           },
           "52": {
-            "cr": null,
-            "sr": null
+            "cr": 73.2,
+            "sr": 133
           },
           "47": {
-            "cr": null,
-            "sr": null
+            "cr": 70.4,
+            "sr": 127
           }
         }
       },
@@ -684,24 +684,24 @@
       "ratings": {
         "men": {
           "HS": {
-            "cr": null,
-            "sr": null
+            "cr": 76.3,
+            "sr": 137
           },
           "5": {
-            "cr": null,
-            "sr": null
+            "cr": 74.0,
+            "sr": 133
           },
           "4": {
-            "cr": null,
-            "sr": null
+            "cr": 72.1,
+            "sr": 129
           },
           "3": {
-            "cr": null,
-            "sr": null
+            "cr": 69.3,
+            "sr": 123
           },
           "2": {
-            "cr": null,
-            "sr": null
+            "cr": 66.4,
+            "sr": 117
           },
           "FT": {
             "cr": null,
@@ -718,20 +718,20 @@
             "sr": null
           },
           "4": {
-            "cr": null,
-            "sr": null
+            "cr": 77.8,
+            "sr": 139
           },
           "3": {
-            "cr": null,
-            "sr": null
+            "cr": 74.4,
+            "sr": 132
           },
           "2": {
-            "cr": null,
-            "sr": null
+            "cr": 70.8,
+            "sr": 125
           },
           "FT": {
-            "cr": null,
-            "sr": null
+            "cr": 68.2,
+            "sr": 120
           }
         }
       },
